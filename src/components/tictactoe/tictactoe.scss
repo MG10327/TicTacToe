@@ -65,10 +65,15 @@
     .boxes {
         height: 150px;
         width: 150px;
+
+        img {
+            padding: 0;
+        }
     }
 
     .board {
         width: 475px;
+        height: 470px;
     }
 
     .title {
